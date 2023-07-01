@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo_principal">Jogar Dado</string>
+    <string name="rodar_dado">Rode o dado</string>
+    <string name="valor_do_dado">Valor do dado = %d</string>
+    <string name="jogar">Jogar</string>
+    <string name="valor_repetido">Valor Repetido</string>
+    <string name="repeated_value">Valor repetido  foi: %d</string>
+    <string name="o_valor_repetido_foi_d">O valor repetido foi: %d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
